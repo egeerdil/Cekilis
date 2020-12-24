@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Sweepy",
+    "slug": "Sweepy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/gift-box.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.egeerdil.sweepy"
+    },
+    "android": {
+      "package": "com.egeerdil.cekilisapp2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
